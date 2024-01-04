@@ -12,18 +12,6 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
 
 ### Useful information
 <details>
-  <summary>:cherry_blossom: Repositories</summary>
-  <a href="https://github.com/MoguchiyDD/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoguchiyDD&repo=Portfolio&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/TechnicalTest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoguchiyDD&repo=TechnicalTest&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/GtL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoguchiyDD&repo=GtL&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-</details>
-<details>
   <summary>:four_leaf_clover: Programming</summary>
   <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoguchiyDD&layout=compact&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
 </details>
