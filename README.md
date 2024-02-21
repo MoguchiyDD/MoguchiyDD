@@ -9,7 +9,6 @@
 
 Hello everyone there! My name is Maria, and my nickname is МогучийДД (MoguchiyDD). I am a person who is not afraid of difficulties, so I become better every day than I was yesterday! I always go up the ladder of knowledge and skills, no matter what. Do you have any questions? Ask me!
 
-
 ### Useful information
 <details>
   <summary>:four_leaf_clover: Programming</summary>
@@ -18,4 +17,23 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
 <details>
   <summary>:maple_leaf: Stats</summary>
   <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MoguchiyDD&&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+</details>
+<details>
+  <summary>:cyclone: Last Releases</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Release</th>
+        <th>Date</th>
+      </tr>
+      </thead>
+    <tbody>
+      <tr>
+        <td>GtL</td>
+        <td><a href="https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable" target="_blank">v1.2.0-stable</a></td>
+        <td>2024.02.21, 05:20 PM</td>
+      </tr>
+    </tbody>
+  </table>
 </details>
