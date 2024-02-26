@@ -25,6 +25,7 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
       <tr>
         <th>Title</th>
         <th>Release</th>
+        <th>OS</th>
         <th>Date</th>
       </tr>
       </thead>
@@ -32,6 +33,7 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
       <tr>
         <td>GtL</td>
         <td><a href="https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable" target="_blank">v1.2.0-stable</a></td>
+        <td>Windows x64: 8, 10, 11</td>
         <td>2024.02.21, 05:20 PM</td>
       </tr>
     </tbody>
