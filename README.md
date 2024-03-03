@@ -16,7 +16,7 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
 </details>
 <details>
   <summary>:maple_leaf: Stats</summary>
-  <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MoguchiyDD&&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MoguchiyDD&show_icons=true&theme=vision-friendly-dark" />
 </details>
 <details>
   <summary>:cyclone: Last Releases</summary>
