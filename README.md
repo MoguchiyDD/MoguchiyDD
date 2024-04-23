@@ -17,6 +17,6 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
 
 ### :cyclone: Last Releases</summary>
 
-| Title |                                    Release                                    |           OS           |         Date         |
-| ----- | ----------------------------------------------------------------------------- | ---------------------- | -------------------- |
-| GtL   | [v1.2.0-stable](https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable) | Windows x64: 8, 10, 11 | 2024.02.21, 05:20 PM |
+|                 Title                 |                                    Release                                    |           OS           |         Date         |
+| ------------------------------------- | ----------------------------------------------------------------------------- | ---------------------- | -------------------- |
+| ![](./releases/GtL/favicon.png) GtL   | [v1.2.0-stable](https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable) | Windows x64: 8, 10, 11 | 2024.02.21, 05:20 PM |
