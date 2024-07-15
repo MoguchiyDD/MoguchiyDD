@@ -12,7 +12,10 @@ Hello everyone there! My name is Maria, and my nickname is МогучийДД (M
 
 ### :four_leaf_clover: Programming
 
-<img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoguchiyDD&layout=compact&langs_count=10&show_icons=true&theme=vision-friendly-dark" />
+<div id="statistics">
+  <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoguchiyDD&layout=compact&langs_count=10&show_icons=true&theme=catppuccin_latte" />
+  <img alt="MoguchiyDD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MoguchiyDD&hide_title=true&show_icons=true&text_bold=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&&theme=moltack" />
+</div>
 
 
 ### :cyclone: Last Releases</summary>
