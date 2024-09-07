@@ -1,4 +1,7 @@
 <div id="networks" align="left">
+  <a href="https://youtube.com/@moguchiydd?si=q71Lp5n7imeFIFSE" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/@MoguchiyDD-ff0000?logo=YouTube&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://t.me/MoguchiyDD" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/@MoguchiyDD-229ED9?logo=Telegram&logoColor=white&style=for-the-badge" />
   </a>
@@ -7,7 +10,7 @@
   </a>
 </div>
 
-Hello everyone there! My name is Maria, and my nickname is МогучийДД (MoguchiyDD). I am a person who is not afraid of difficulties, so I become better every day than I was yesterday! I always go up the ladder of knowledge and skills, no matter what. Do you have any questions? Ask me!
+Hi everyone! I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and Гриан (Grian). I’m a multifaceted individual with a strong drive for personal growth, always aiming to improve and become better every day.
 
 
 ### :four_leaf_clover: Programming
