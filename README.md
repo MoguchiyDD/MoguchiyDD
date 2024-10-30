@@ -11,9 +11,6 @@ I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and �
   <a href="https://t.me/MoguchiyDD" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/@MoguchiyDD-229ED9?logo=Telegram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/moguchiydd/?locale=en_US" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/MoguchiyDD-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" />
-  </a>
 </div>
 
 ### :four_leaf_clover: Programming
