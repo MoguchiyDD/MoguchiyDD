@@ -1,5 +1,5 @@
 # Hi everyone! <img src="https://komarev.com/ghpvc/?username=MoguchiyDD&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="MoguchiyDD" />
-I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and Гриан (Grian). I’m a multifaceted individual with a strong drive for personal growth, always aiming to improve and become better every day.
+I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and ГРИАН (GRIAN). I’m a multifaceted individual with a strong drive for personal growth, always aiming to improve and become better every day.
 
 [Here](https://github.com/MoguchiyDD/Portfolio/blob/main/RU_README.md) is the portfolio in Russian \
 [Here](https://github.com/MoguchiyDD/Portfolio/blob/main/EN_README.md) is the portfolio in English
