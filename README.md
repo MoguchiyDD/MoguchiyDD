@@ -11,9 +11,6 @@ I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and �
   <a href="https://t.me/MoguchiyDD" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/@MoguchiyDD-229ED9?logo=Telegram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/u/MoguchiyDD/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/@MoguchiyDD-9E6209?logo=LeetCode&logoColor=white&style=for-the-badge" />
-  </a>
 </div>
 
 ### :four_leaf_clover: Programming
