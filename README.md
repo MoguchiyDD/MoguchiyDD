@@ -22,6 +22,7 @@ I'm Maria, also known by my two nicknames: МогучийДД (MoguchiyDD) and �
 
 ### :cyclone: Last Releases</summary>
 
-|                 Title                 |                                    Release                                    |                          List                          |           OS           |         Date         |
-| ------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------- | -------------------- |
-| ![](./releases/GtL/favicon.png) GtL   | [v1.2.0-stable](https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable) | [Releases](https://github.com/MoguchiyDD/GtL/releases) | Windows x64: 8, 10, 11 | 2024.02.21, 05:20 PM |
+|                            Title                             |                                        Release                                        |                                List                                |           OS           |         Date         |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------- | -------------------- |
+| ![](./releases/GtL/favicon.png) GtL                          | [v1.2.0-stable](https://github.com/MoguchiyDD/GtL/releases/tag/v1.2.0-stable)         | [Releases](https://github.com/MoguchiyDD/GtL/releases)             | Windows x64: 8, 10, 11 | 2024.02.21, 05:20 PM |
+| ![](./releases/MinesweeperGame/favicon.png) Minesweeper Game | [v1.0-stable](https://github.com/MoguchiyDD/MinesweeperGame/releases/tag/v1.0-stable) | [Releases](https://github.com/MoguchiyDD/MinesweeperGame/releases) | Windows: 10, 11        | 2024.12.29, 12:31 PM |
